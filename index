@@ -3,21 +3,10 @@
     <head>
         <meta charset="utf-8">
         <title>San website</title>
-    <style>
-        body {
-            background-color: aquamarine;
-        }
-        hr {
-            border-style: none;
-            border-top-style: dashed;
-            border-color: rgb(103, 69, 136);
-            border-width: 5px;
-            width: 50%;
-        }
-    </style>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-    <h10>My Hobbies</h10>
+    <h1>My Hobbies</h1>
     <h4>
         <ol type="i">
             <li>Gyming</li>
